@@ -1,5 +1,7 @@
 # nemo-legal
 
+A lei de engenharia é `~/dev/vekai/ENGENHARIA.md`. Aqui vale o que a seção «Onde cada parte vale» manda para repositório sem código.
+
 Página estática de instruções de exclusão de dados (LGPD), servida por GitHub Pages.
 
 **Não delete este repositório e não o torne privado.** A URL é referenciada externamente — pela Meta, no cadastro dos apps — e precisa continuar pública e no ar.
