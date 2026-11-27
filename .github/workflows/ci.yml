@@ -16,7 +16,7 @@ jobs:
   # Só o gate de segredo: este repo não tem dependência para escanear.
   # Vale mesmo assim: chave commitada uma vez fica no histórico para sempre.
   supply-chain:
-    runs-on: ubuntu-latest
+    runs-on: ${{ vars.RUNNER || 'nscloud-ubuntu-24.04-amd64-2x8' }}
     timeout-minutes: 10
 
     steps:
